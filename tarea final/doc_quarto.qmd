@@ -5,7 +5,7 @@ format: pdf
 editor: visual
 ---
 
-## Quarto
+## Título de la tarea de Karen
 
 Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
 
